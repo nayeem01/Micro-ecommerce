@@ -1,6 +1,6 @@
 # Micro-ecommerce
 
-**Tech stack**: TypeScript, PostgreSql, Nest.js, TypeORM, Docker, Redis
+**Tech stack**: TypeScript, PostgreSql, Nest.js, Prisma, Docker, Redis
 
 **Backend Features**:
 
